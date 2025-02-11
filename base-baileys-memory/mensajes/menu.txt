@@ -1,0 +1,7 @@
+Please select one of the options by typing only the number:
+
+1 - Billing
+2 - Architecture & Design
+3 - Project Management
+
+0 - Exit
