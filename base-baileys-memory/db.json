@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "ref": "ans_90db84fc-18c4-466c-8058-6e7b3df39986",
+    "keyword": "key_1f2fc081-f5bd-4738-a90c-dbbf0ec66b87",
+    "answer": "Hello! Thank you for reaching out to Terrameridiam. We are a benchmark in architectural innovation and design excellence.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "4f9114fb330aff0a3bfc892900c6efd2",
+    "from": "50662729093"
+  },
+  {
+    "ref": "ans_0461957f-b2fb-46ee-b8f8-bc2fef813866",
+    "keyword": "ans_90db84fc-18c4-466c-8058-6e7b3df39986",
+    "answer": "Please select the project you are inquiring about:\n1- Paraiso Delfines\n2- Luz de Mar\n3- Azul del Mar",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8c5db304afe86cb179c8e2a675dd4078",
+    "from": "50662729093"
+  },
+  {
+    "ref": "ans_0461957f-b2fb-46ee-b8f8-bc2fef813866",
+    "keyword": "ans_90db84fc-18c4-466c-8058-6e7b3df39986",
+    "answer": "Please select the project you are inquiring about:\n1- Paraiso Delfines\n2- Luz de Mar\n3- Azul del Mar",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8c5db304afe86cb179c8e2a675dd4078",
+    "from": "50662729093"
+  }
+]
