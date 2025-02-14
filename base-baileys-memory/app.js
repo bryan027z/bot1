@@ -13,7 +13,7 @@ const menu = fs.readFileSync(menuPath, "utf8");
 // Lista de agentes con sus datos de contacto
 const agents = {
     billing: { name: "Juan Pablo Rivas", id: "AGENT_1", phone: "+50660468116" },
-    architecture: { name: "Maricruz Chaves", id: "AGENT_2", phone: "+50688011741" },
+    architecture: { name: "Jose Pablo Flores", id: "AGENT_2", phone: "+50688011741" },
     projectManagement: { name: "Leo Ortiz", id: "AGENT_3", phone: "+50687796407" },
 };
 
