@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_90db84fc-18c4-466c-8058-6e7b3df39986",
-    "keyword": "key_1f2fc081-f5bd-4738-a90c-dbbf0ec66b87",
+    "ref": "ans_14e27504-3dea-4c54-9e0d-d1dd349e8fb9",
+    "keyword": "key_8c00527f-89c7-4d79-aa50-ad36abd1618c",
     "answer": "Hello! Thank you for reaching out to Terrameridiam. We are a benchmark in architectural innovation and design excellence.",
     "options": {
       "media": null,
@@ -15,12 +15,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "4f9114fb330aff0a3bfc892900c6efd2",
-    "from": "50662729093"
+    "refSerialize": "c10ca9101bd49bddedc0ed69bd2141e7",
+    "from": "50684033240"
   },
   {
-    "ref": "ans_0461957f-b2fb-46ee-b8f8-bc2fef813866",
-    "keyword": "ans_90db84fc-18c4-466c-8058-6e7b3df39986",
+    "ref": "ans_2d31d4d5-6ec8-4ad1-93f7-90a6a4431d7f",
+    "keyword": "ans_14e27504-3dea-4c54-9e0d-d1dd349e8fb9",
     "answer": "Please select the project you are inquiring about:\n1- Paraiso Delfines\n2- Luz de Mar\n3- Azul del Mar",
     "options": {
       "media": null,
@@ -34,12 +34,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "8c5db304afe86cb179c8e2a675dd4078",
-    "from": "50662729093"
+    "refSerialize": "872d45738dacb1cf946d5b8084360a9a",
+    "from": "50684033240"
   },
   {
-    "ref": "ans_0461957f-b2fb-46ee-b8f8-bc2fef813866",
-    "keyword": "ans_90db84fc-18c4-466c-8058-6e7b3df39986",
+    "ref": "ans_2d31d4d5-6ec8-4ad1-93f7-90a6a4431d7f",
+    "keyword": "ans_14e27504-3dea-4c54-9e0d-d1dd349e8fb9",
     "answer": "Please select the project you are inquiring about:\n1- Paraiso Delfines\n2- Luz de Mar\n3- Azul del Mar",
     "options": {
       "media": null,
@@ -53,7 +53,120 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "8c5db304afe86cb179c8e2a675dd4078",
-    "from": "50662729093"
+    "refSerialize": "872d45738dacb1cf946d5b8084360a9a",
+    "from": "50684033240"
+  },
+  {
+    "ref": "aa4a95fc-366c-495b-b5f8-b30a8bae36a5",
+    "keyword": "872d45738dacb1cf946d5b8084360a9a",
+    "answer": "1",
+    "options": {},
+    "from": "50684033240",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "69b79da1-3115-4e6c-aef7-787c2bfdc20f",
+    "keyword": null,
+    "answer": "Please select the area of assistance:\n1- Billing\n2- Architecture\n3- Project Management",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "50684033240",
+    "refSerialize": "ce523a0c7af5074a6d6c666a91f184bb"
+  },
+  {
+    "ref": "ans_a28c22ba-8d4f-416b-8ceb-691c8999e1c7",
+    "keyword": "ans_2d31d4d5-6ec8-4ad1-93f7-90a6a4431d7f",
+    "answer": "Which service would you like to inquire about?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8f69653010b67a76f02ecafc533aa2e2",
+    "from": "50684033240"
+  },
+  {
+    "ref": "6a089803-09ee-418e-984b-f686c8845a84",
+    "keyword": "8f69653010b67a76f02ecafc533aa2e2",
+    "answer": "1",
+    "options": {},
+    "from": "50684033240",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "fdabc49e-2d32-4cf3-9580-7fa4485f9a7b",
+    "keyword": null,
+    "answer": "Hello! My name is Juan Pablo Rivas. I'll assist you with your inquiry.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "50684033240",
+    "refSerialize": "a04985548c9db343e74469f7785b4937"
+  },
+  {
+    "ref": "f91a57ca-3746-47a7-997a-f5a97654260a",
+    "keyword": null,
+    "answer": "You can contact me directly:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "50684033240",
+    "refSerialize": "b2590b14466124ecfe8034c364920866"
+  },
+  {
+    "ref": "5c2e7dd9-0a1b-4cb0-9ff2-22a4d3706604",
+    "keyword": null,
+    "answer": "WhatsApp: https://wa.me/50660468116",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "50684033240",
+    "refSerialize": "ba4cf9e3e419d6bf6a42657e1eaf9097"
+  },
+  {
+    "ref": "92baa6e9-b3fb-40fc-a050-00538cf42a4e",
+    "keyword": null,
+    "answer": "Email: billing@terrameridiamcr.com",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "50684033240",
+    "refSerialize": "247c25ead2bb5c185ed57de25f3c7a5f"
+  },
+  {
+    "ref": "dc4c477d-68d6-4daf-b4eb-530424ebd79d",
+    "keyword": null,
+    "answer": "Thank you for contacting us. Have a great day! 👋\n\nIf you need to start over, type \"menu\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "50684033240",
+    "refSerialize": "f8d6cd2b97fe75bed1c45564bef53735"
   }
 ]

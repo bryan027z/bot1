@@ -1,0 +1,213 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50684033240@s.whatsapp.net',
+    fromMe: false,
+    id: '8FE3CC84B8625718A99EEFABBFC98124',
+    participant: undefined
+  },
+  messageTimestamp: 1740988475,
+  pushName: 'bry',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Jxjc',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jxjc',
+  from: '50684033240'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14e27504-3dea-4c54-9e0d-d1dd349e8fb9',
+  keyword: 'key_8c00527f-89c7-4d79-aa50-ad36abd1618c',
+  answer: 'Hello! Thank you for reaching out to Terrameridiam. We are a benchmark in architectural innovation and design excellence.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c10ca9101bd49bddedc0ed69bd2141e7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2d31d4d5-6ec8-4ad1-93f7-90a6a4431d7f',
+  keyword: 'ans_14e27504-3dea-4c54-9e0d-d1dd349e8fb9',
+  answer: 'Please select the project you are inquiring about:\n' +
+    '1- Paraiso Delfines\n' +
+    '2- Luz de Mar\n' +
+    '3- Azul del Mar',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '872d45738dacb1cf946d5b8084360a9a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50684033240@s.whatsapp.net',
+    fromMe: false,
+    id: 'C4B3BCD1152B1D1019095C2EC312CEB2',
+    participant: undefined
+  },
+  messageTimestamp: 1740988477,
+  pushName: 'bry',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '50684033240'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50684033240@s.whatsapp.net',
+    fromMe: false,
+    id: '4A6CDA976CBAC2BD273305DF0FD0B352',
+    participant: undefined
+  },
+  messageTimestamp: 1740988480,
+  pushName: 'bry',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '50684033240'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a28c22ba-8d4f-416b-8ceb-691c8999e1c7',
+  keyword: 'ans_2d31d4d5-6ec8-4ad1-93f7-90a6a4431d7f',
+  answer: 'Which service would you like to inquire about?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8f69653010b67a76f02ecafc533aa2e2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50684033240@s.whatsapp.net',
+    fromMe: false,
+    id: 'B1130D15ECADF015A076AFF5F6C5E40A',
+    participant: undefined
+  },
+  messageTimestamp: 1740988481,
+  pushName: 'bry',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '50684033240'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50684033240@s.whatsapp.net',
+    fromMe: false,
+    id: 'F310282E38E21D39005844B66D628A09',
+    participant: undefined
+  },
+  messageTimestamp: 1740988485,
+  pushName: 'bry',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '50684033240'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50684033240@s.whatsapp.net',
+    fromMe: false,
+    id: '6D564D5F10FB8F7E73A787ECCA99AAA5',
+    participant: undefined
+  },
+  messageTimestamp: 1740988488,
+  pushName: 'bry',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '50684033240'
+}
